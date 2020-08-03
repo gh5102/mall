@@ -26,4 +26,5 @@ public class SpuBoundsServiceImpl extends ServiceImpl<SpuBoundsDao, SpuBoundsEnt
         return new PageUtils(page);
     }
 
+
 }
